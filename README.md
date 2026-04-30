@@ -20,7 +20,7 @@
 
 | Game Board | AI Solving | Game Over Reveal |
 |:---:|:---:|:---:|
-| ![Screenshot 1](images/screenshot1.png) | ![Screenshot 2](images/screenshot2.png) | ![Screenshot 3](images/screenshot3.png) |
+| ![game_board][images/screenshot1.png](https://github.com/aliamir26/Wumpus-Logic-Agent/blob/010cf7d78cc509a8e214834254be4c57cf79c681/screenshots/gameboard.png) | ![ai_solving][images/screenshot2.png](https://github.com/aliamir26/Wumpus-Logic-Agent/blob/010cf7d78cc509a8e214834254be4c57cf79c681/screenshots/ai_solving.png) | ![game_over][images/screenshot3.png](https://github.com/aliamir26/Wumpus-Logic-Agent/blob/010cf7d78cc509a8e214834254be4c57cf79c681/screenshots/game_over.png) |
 
 ---
 
