@@ -25,8 +25,7 @@
 ---
 
 ### AI Solving
-![screenshots/ai_solving.png]
-(https://github.com/aliamir26/Wumpus-Logic-Agent/blob/010cf7d78cc509a8e214834254be4c57cf79c681/screenshots/ai_solving.png)
+![screenshots/ai_solving.png](https://github.com/aliamir26/Wumpus-Logic-Agent/blob/010cf7d78cc509a8e214834254be4c57cf79c681/screenshots/ai_solving.png)
 
 ---
 
