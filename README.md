@@ -18,9 +18,20 @@
 
 ## 📸 Screenshots
 
-| Game Board | AI Solving | Game Over Reveal |
-|:---:|:---:|:---:|
-| ![screenshots/gameboard.png](https://github.com/aliamir26/Wumpus-Logic-Agent/blob/010cf7d78cc509a8e214834254be4c57cf79c681/screenshots/gameboard.png) | ![screenshots/ai_solving.png](https://github.com/aliamir26/Wumpus-Logic-Agent/blob/010cf7d78cc509a8e214834254be4c57cf79c681/screenshots/ai_solving.png) | ![screenshots/game_over.png](https://github.com/aliamir26/Wumpus-Logic-Agent/blob/010cf7d78cc509a8e214834254be4c57cf79c681/screenshots/game_over.png) |
+### Game Board 
+
+![screenshots/gameboard.png](https://github.com/aliamir26/Wumpus-Logic-Agent/blob/010cf7d78cc509a8e214834254be4c57cf79c681/screenshots/gameboard.png)
+
+---
+
+### AI Solving
+![screenshots/ai_solving.png]
+(https://github.com/aliamir26/Wumpus-Logic-Agent/blob/010cf7d78cc509a8e214834254be4c57cf79c681/screenshots/ai_solving.png)
+
+---
+
+### Game Over Reveal
+![screenshots/game_over.png](https://github.com/aliamir26/Wumpus-Logic-Agent/blob/010cf7d78cc509a8e214834254be4c57cf79c681/screenshots/game_over.png)
 
 ---
 
